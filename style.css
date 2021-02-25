@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.counter{
+    font-size: 5em;
+    font-weight: 900;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+main{
+    padding: 200px 0;
+}
+.btn{
+    padding: 8px 15px;
+    outline: 0;
+}
