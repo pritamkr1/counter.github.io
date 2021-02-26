@@ -1,10 +1,13 @@
 body{
     text-align: center;
+    height: 100vh;
+    font-family: monospace;
 }
-.counter{
-    font-size: 5em;
+#counter-value{
+    font-size: 9em;
     font-weight: 900;
-    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: monospace;
+    
 }
 main{
     padding: 200px 0;
@@ -12,4 +15,14 @@ main{
 .btn{
     padding: 8px 15px;
     outline: 0;
+    font-family: monospace;
+   
+}
+#counter{
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.btn-container{
+    margin-top: 10px;
 }
